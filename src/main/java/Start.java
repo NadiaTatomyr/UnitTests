@@ -22,8 +22,5 @@ public class Start {
         System.out.println("Array = " + Arrays.toString(array));
         System.out.println("Index = " + index);
         System.out.println("Result value = " + Operations.GetValueFromArrayByIndex(index,array));
-
-
-
     }
 }
